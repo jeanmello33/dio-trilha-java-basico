@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Executar",
+            "request": "launch",
+            "mainClass": "Executar",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ExempoFor",
+            "request": "launch",
+            "mainClass": "ExempoFor",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarComplexo",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarComplexo",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "controle-fluxo_f4d6edd0"
+        }
+    ]
+}
