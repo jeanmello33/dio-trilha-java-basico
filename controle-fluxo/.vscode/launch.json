@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "controle-fluxo_f4d6edd0"
+        },
+        {
+            "type": "java",
             "name": "Executar",
             "request": "launch",
             "mainClass": "Executar",
